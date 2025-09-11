@@ -4,10 +4,10 @@ A stunning, modern agency template built with **Next.js 15**, **TypeScript**, an
 
 ## ✨ Features
 
-### 🎨 **Modern Clay-Style Design**
+### 🎨 **Modern Design**
 
 - Clean, minimalist aesthetic with smooth animations
-- Clay-style visual elements and organic shapes
+- Modern visual elements and organic shapes
 - Responsive design that looks great on all devices
 
 ### 📄 **Complete Page Structure**
