@@ -137,7 +137,7 @@ export default function Footer() {
         <div className="py-8 border-t border-white/10">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
             <div className="text-white/60">
-              © 2019 – {currentYear} Orbit Agency, LLC
+              © 2020 – {currentYear} Orbit Agency, LLC
             </div>
 
             <div className="flex gap-8">
