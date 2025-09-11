@@ -139,6 +139,21 @@ export default function Footer() {
             <div className="text-white/60">
               © 2019 – {currentYear} Orbit Agency, LLC
             </div>
+
+            <div className="flex gap-8">
+              <Link
+                href="/"
+                className="text-white/60 hover:text-white/80 transition-colors duration-300"
+              >
+                Privacy
+              </Link>
+              <Link
+                href="/"
+                className="text-white/60 hover:text-white/80 transition-colors duration-300"
+              >
+                Terms
+              </Link>
+            </div>
           </div>
         </div>
       </div>
