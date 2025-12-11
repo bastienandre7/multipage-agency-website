@@ -2,7 +2,7 @@
 
 A stunning, modern agency template built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**. Perfect for digital agencies, design studios, and creative professionals who want to showcase their work with style.
 
-## ✨ Features
+## Features
 
 ### 🎨 **Modern Design**
 
