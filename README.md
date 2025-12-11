@@ -46,7 +46,7 @@ A stunning, modern agency template built with **Next.js 15**, **TypeScript**, an
 1. **Download the template**
 
    ```bash
-   # Download from BloomTPL.com and extract
+   # Download from bloomtpl.com and extract
    ```
 
 2. **Install dependencies**
