@@ -1,45 +1,45 @@
-# Orbit - Site Vitrine d'Agence Créative
+# Orbit - Creative Agency Showcase Website
 
-Un site web moderne et élégant que j'ai développé avec Next.js 15, TypeScript et Tailwind CSS. Ce projet personnel démontre mes compétences en développement front-end et ma capacité à créer des expériences web professionnelles pour des agences créatives.
+A modern and elegant website I developed with Next.js 15, TypeScript, and Tailwind CSS. This personal project demonstrates my front-end development skills and my ability to create professional web experiences for creative agencies.
 
-## 🎯 À propos du projet
+## 🎯 About the Project
 
-Orbit est un projet personnel que j'ai conçu et développé pour présenter le travail d'une agence digitale fictive. L'objectif était de créer une vitrine complète et professionnelle qui reflète les standards actuels du web design, tout en explorant les dernières fonctionnalités de Next.js 15.
+Orbit is a personal project I designed and developed to showcase the work of a fictional digital agency. The goal was to create a complete and professional showcase that reflects current web design standards, while exploring the latest features of Next.js 15.
 
-## ✨ Fonctionnalités développées
+## ✨ Developed Features
 
-### 🎨 Interface utilisateur moderne
+### 🎨 Modern User Interface
 
-- Design minimaliste avec animations fluides et engageantes
-- Formes organiques et éléments visuels contemporains
-- Adaptation parfaite sur mobile, tablette et desktop
+- Minimalist design with smooth and engaging animations
+- Organic shapes and contemporary visual elements
+- Perfect adaptation across mobile, tablet, and desktop
 
-### 📄 Pages implémentées
+### 📄 Implemented Pages
 
-- **Homepage** - Section hero, présentation des services, projets mis en avant, articles de blog
-- **About** - Équipe, mission, valeurs et histoire de l'agence
+- **Homepage** - Hero section, services presentation, featured projects, blog articles
+- **About** - Team, mission, values, and agency history
 - **Work** - Portfolio showcase with detailed project pages
-- **Services** - Offres complètes de services
-- **Blog** - Blog complet avec système de routage dynamique
-- **Contact** - Formulaire de contact et informations de l'agence
+- **Services** - Complete service offerings
+- **Blog** - Full blog with dynamic routing system
+- **Contact** - Contact form and agency information
 
-### ⚡ Fonctionnalités techniques
+### ⚡ Technical Features
 
-- Pages de projets dynamiques (`/work/[id]`)
-- Articles de blog dynamiques (`/blog/[slug]`)
-- Animations au scroll avec Intersection Observer
-- Optimisation des images responsive
-- Métadonnées optimisées pour le SEO
+- Dynamic project pages (`/work/[id]`)
+- Dynamic blog posts (`/blog/[slug]`)
+- Scroll animations with Intersection Observer
+- Responsive image optimization
+- SEO-optimized metadata
 
-### 🛠 **Technical Stack**
+### 🛠 Technical Stack
 
-- **Next.js 15** avec App Router
-- **TypeScript** pour la sécurité des types
-- **Tailwind CSS** pour le styling
-- **ESLint** pour la qualité du code
+- **Next.js 15** with App Router
+- **TypeScript** for type safety
+- **Tailwind CSS** for styling
+- **ESLint** for code quality
 
 
-## 📁 Architecture du projet
+## 📁 Project Architecture
 
 ```
 orbit-project/
@@ -68,10 +68,10 @@ orbit-project/
 └── public/                # Static assets
 ```
 
-## 🔗 Liens
+## 🔗 Links
 
-- Démo en ligne :
+- Live demo : https://orbit-multipage-agency-website.vercel.app/
 
 ---
 
-Développé par Bastien Andre
+Developed by Bastien Andre
